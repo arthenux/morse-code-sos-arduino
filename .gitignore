@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Arduino/C++ build artifacts
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+
+# Temporary build folders
+build/
+*build*
