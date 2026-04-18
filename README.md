@@ -32,12 +32,11 @@ LED Cathode (-)	GND
 
 💻 Installation & Usage
 
-1. Clone the repository:bash git clone https://github.com
-2.    Use code with caution.      
-3. Open the morse-code-sos-arduino.ino file in the Arduino IDE.
-4. Connect your Arduino board via USB.
-5. Select your board type and port under the Tools menu.
-6. Click Upload.
+1. Clone the repository:bash git clone https://github.com    
+2. Open the morse-code-sos-arduino.ino file in the Arduino IDE.
+3. Connect your Arduino board via USB.
+4. Select your board type and port under the Tools menu.
+5. Click Upload.
 
 📄 License
 
